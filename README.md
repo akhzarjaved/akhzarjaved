@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://akhzarjaved.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akhzarjaved&count_private=true&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akhzarjaved&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <br>
 <a href="https://akhzarjaved.github.io/">
