@@ -22,14 +22,12 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="40" height="40"/>
 </p>
 
-<h3 align="left">Backend:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 </p>
-
-<h3 align="left">Frontend:</h3>
 <p align="left">
    <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
