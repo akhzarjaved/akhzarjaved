@@ -29,8 +29,7 @@
 <br>
 <br>
 <p align="center">
-You can find me on
-<a href="https://stackoverflow.com/users/8158202" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8158202" height="30" width="40" /></a>,
-or on
-<a href="https://fb.com/akhzarjavedghauri" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/facebook/facebook-original.svg" alt="akhzarjavedghauri" height="30" width="40" /></a>.
+You can find me on <br>
+<a href="https://stackoverflow.com/users/8158202" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8158202" height="30" width="40" /></a>
+<a href="https://fb.com/akhzarjavedghauri" target="blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/facebook/facebook-original.svg" alt="akhzarjavedghauri" height="30" width="40" /></a>
 </p>
