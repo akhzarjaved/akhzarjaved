@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhzar Javed</h1>
 <h3 align="center">A passionate backend developer from Pakistan.</h3>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=akhzarjaved&theme=onedark&margin-w=15" alt="akhzarjaved" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=akhzarjaved&title=Commit,Issues,Followers,Repositories&theme=onedark&margin-w=15&column=4" alt="akhzarjaved" /> </p>
 
 <h3 align="center">OS:</h3>
 <p align="center">
