@@ -25,6 +25,9 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 </p>
 
+<br>
+<br>
+<br>
 <p align="center">
 You can find me on
 <a href="https://stackoverflow.com/users/8158202" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8158202" height="30" width="40" /></a>,
