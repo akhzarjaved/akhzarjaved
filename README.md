@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=akhzarjaved&theme=onedark&title=Commit,Issues,Followers,Repositories&margin-w=15&col=4" alt="akhzarjaved" /> </p>
 
-<h3 align="left">OS:</h3>
-<p align="left">
+<h3 align="center">OS:</h3>
+<p align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
+<h3 align="center">Languages & Tools:</h3>
+<p align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="40" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
