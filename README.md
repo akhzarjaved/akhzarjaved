@@ -3,7 +3,7 @@
 
 <a href="https://github.com/akhzarjaved">
 
-![](https://github.com/akhzarjaved/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/akhzarjaved/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/akhzarjaved/akhzarjaved/overview.svg)
+![](https://github.com/akhzarjaved/akhzarjaved/languages.svg)
 
 </a>
